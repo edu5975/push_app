@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "686540084739",
+    "project_id": "flutter-projects-84497",
+    "storage_bucket": "flutter-projects-84497.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686540084739:android:c2bb91f5a45a9127ba6036",
+        "android_client_info": {
+          "package_name": "com.eduardorico.push_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686540084739-re277gg0sr0rstvt4uqbpo1qnlda9e24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhnWbhnzIoBm2Bgh5ZSs5toz8wzgbgVMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686540084739-re277gg0sr0rstvt4uqbpo1qnlda9e24.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
